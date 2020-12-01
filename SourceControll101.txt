@@ -2,3 +2,9 @@ git init:
 // make changes
 git status:
 //
+git add [filename.ext]:
+//
+git commit "Inital Commit":
+//
+git log:
+//
