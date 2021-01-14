@@ -1,0 +1,4 @@
+get-executionpolicy
+// check the execution policy
+set-execution policy [allsigned]
+// sign all installation pocess's policy
